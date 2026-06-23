@@ -1,0 +1,9 @@
+test,metric,value,p_value,n,passed
+Spearman rho (Group B),rho,-0.021806,0.490960,1000,False
+Kendall tau (Group B),tau,-0.017316,0.497488,1000,False
+Partial correlation,rho_partial,-0.084744,0.007313,1000,False
+Mann-Whitney U,U_statistic,567264.500000,0.000000,2000,True
+Lift@10,lift,10.638298,,10,
+Lift@25,lift,7.659574,,25,True
+Lift@50,lift,6.808511,,50,
+Lift@100,lift,5.744681,,100,
